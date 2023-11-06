@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "N5gjC5iKVE6FA0j1qCE1IXveLP6z7aJYw7Ck0AMMJ2UFF1eD/B4aCozMrm+3RQzdX5y78/gjsrSxvOk2GC7tIQ==",
+  "success": true,
+  "projectFilePath": "D:\\Trabajos\\Artemisa2.0\\Artemisa2.0\\Artemisa2.0.iOS\\Artemisa2.0.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\crist\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\crist\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\crist\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
