@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ArtemisaApp.MainMenu.MainPage" NavigationPage.HasNavigationBar="False">
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Style x:Key="lblFooter" TargetType="Label">
+                <Setter Property="FontSize" Value="10"/>
+                <Setter Property="FontAttributes" Value="Bold"/>
+                <Setter Property="TextColor" Value="White"/>
+                <Setter Property="HorizontalTextAlignment" Value="Center"/>
+            </Style>
+            <Style TargetType="Image" x:Key="lblImageFooter">
+                <Setter Property="HeightRequest" Value="30"/>
+            </Style>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    <Grid BackgroundColor="#B3C890"
+          RowDefinitions="*,70">
+        <!--#region Footer -->
+        <StackLayout Grid.Row="1" Orientation="Horizontal" BackgroundColor="#73A9AD21"
+                      HorizontalOptions="FillAndExpand" Padding="0,10,0,0">
+            <StackLayout HorizontalOptions="CenterAndExpand" Orientation="Horizontal" Spacing="90">
+            <StackLayout>
+                <Image Source="https://i.ibb.co/g309Yf7/hogar.png" Style="{StaticResource lblImageFooter}"/>
+                <Label Text="Menu" Style="{StaticResource lblFooter}"/>
+            </StackLayout>
+            <StackLayout>
+                <Image Source="https://i.ibb.co/fYQRcXy/grafico-histograma.png" Style="{StaticResource lblImageFooter}"/>
+                <Label Text="Graph" Style="{StaticResource lblFooter}"/>
+            </StackLayout>
+            <StackLayout>
+                <Image Source="https://i.ibb.co/Kw7SjS6/atom-1.png" Style="{StaticResource lblImageFooter}"/>
+                <Label Text="?" Style="{StaticResource lblFooter}"/>
+
+            </StackLayout>
+            </StackLayout>
+        </StackLayout>
+        <!--#endregion-->
+
+    </Grid>
+</ContentPage>
