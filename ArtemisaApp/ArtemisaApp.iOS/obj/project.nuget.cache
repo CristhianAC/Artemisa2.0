@@ -1,12 +1,42 @@
 {
   "version": 2,
-  "dgSpecHash": "UCz1Yg9wfxE4gkhzm/g97QJFpI6EY4q4h0Ok+JojN64o1WlFJqcAywn46GFvpCz7vBN4v0M3fS+OXnp3ti2WFw==",
+  "dgSpecHash": "THJBiiJsf/Ep9DZdYtiYDPBqtMztCdnV1ksRm4QouuFsCknrFEiUAECu4EedSA0L508lIjzvjV9BG2dJufUF7Q==",
   "success": true,
-  "projectFilePath": "D:\\Trabajos\\Artemisa2.0\\ArtemisaApp\\ArtemisaApp.iOS\\ArtemisaApp.iOS.csproj",
+  "projectFilePath": "C:\\Users\\CRISTHIAN\\Documents\\Trabajos\\Artemisa2.0\\ArtemisaApp\\ArtemisaApp.iOS\\ArtemisaApp.iOS.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\crist\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
-    "C:\\Users\\crist\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
-    "C:\\Users\\crist\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+    "C:\\Users\\CRISTHIAN\\.nuget\\packages\\microsoft.netcore.platforms\\7.0.4\\microsoft.netcore.platforms.7.0.4.nupkg.sha512",
+    "C:\\Users\\CRISTHIAN\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\CRISTHIAN\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\CRISTHIAN\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Degradación del paquete detectada: Xamarin.Essentials de 1.8.0 a 1.7.0. Haga referencia al paquete directamente desde el proyecto para seleccionar una versión diferente. \r\n ArtemisaApp.iOS -> ArtemisaApp -> Xamarin.Essentials (>= 1.8.0) \r\n ArtemisaApp.iOS -> Xamarin.Essentials (>= 1.7.0)",
+      "libraryId": "Xamarin.Essentials",
+      "targetGraphs": [
+        "Xamarin.iOS,Version=v1.0",
+        "Xamarin.iOS,Version=v1.0/win",
+        "Xamarin.iOS,Version=v1.0/win-arm64",
+        "Xamarin.iOS,Version=v1.0/win-x64",
+        "Xamarin.iOS,Version=v1.0/win-x86"
+      ]
+    },
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Degradación del paquete detectada: Xamarin.Forms de 5.0.0.2612 a 5.0.0.2196. Haga referencia al paquete directamente desde el proyecto para seleccionar una versión diferente. \r\n ArtemisaApp.iOS -> ArtemisaApp -> Xamarin.Forms (>= 5.0.0.2612) \r\n ArtemisaApp.iOS -> Xamarin.Forms (>= 5.0.0.2196)",
+      "libraryId": "Xamarin.Forms",
+      "targetGraphs": [
+        "Xamarin.iOS,Version=v1.0",
+        "Xamarin.iOS,Version=v1.0/win",
+        "Xamarin.iOS,Version=v1.0/win-arm64",
+        "Xamarin.iOS,Version=v1.0/win-x64",
+        "Xamarin.iOS,Version=v1.0/win-x86"
+      ]
+    }
+  ]
 }

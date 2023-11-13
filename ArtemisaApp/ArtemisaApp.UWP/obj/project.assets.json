@@ -26,7 +26,7 @@
           "build/Microsoft.Net.UWPCoreRuntimeSdk.props": {}
         }
       },
-      "Microsoft.NETCore.Platforms/2.1.0": {
+      "Microsoft.NETCore.Platforms/7.0.4": {
         "type": "package",
         "compile": {
           "lib/netstandard1.0/_._": {}
@@ -668,8 +668,9 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "Xamarin.Essentials": "1.7.0",
-          "Xamarin.Forms": "5.0.0.2196"
+          "Microsoft.NETCore.Platforms": "7.0.4",
+          "Xamarin.Essentials": "1.8.0",
+          "Xamarin.Forms": "5.0.0.2612"
         },
         "compile": {
           "bin/placeholder/ArtemisaApp.dll": {}
@@ -704,7 +705,7 @@
           "build/Microsoft.Net.UWPCoreRuntimeSdk.props": {}
         }
       },
-      "Microsoft.NETCore.Platforms/2.1.0": {
+      "Microsoft.NETCore.Platforms/7.0.4": {
         "type": "package",
         "compile": {
           "lib/netstandard1.0/_._": {}
@@ -1514,8 +1515,9 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "Xamarin.Essentials": "1.7.0",
-          "Xamarin.Forms": "5.0.0.2196"
+          "Microsoft.NETCore.Platforms": "7.0.4",
+          "Xamarin.Essentials": "1.8.0",
+          "Xamarin.Forms": "5.0.0.2612"
         },
         "compile": {
           "bin/placeholder/ArtemisaApp.dll": {}
@@ -1550,7 +1552,7 @@
           "build/Microsoft.Net.UWPCoreRuntimeSdk.props": {}
         }
       },
-      "Microsoft.NETCore.Platforms/2.1.0": {
+      "Microsoft.NETCore.Platforms/7.0.4": {
         "type": "package",
         "compile": {
           "lib/netstandard1.0/_._": {}
@@ -2361,8 +2363,9 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "Xamarin.Essentials": "1.7.0",
-          "Xamarin.Forms": "5.0.0.2196"
+          "Microsoft.NETCore.Platforms": "7.0.4",
+          "Xamarin.Essentials": "1.8.0",
+          "Xamarin.Forms": "5.0.0.2612"
         },
         "compile": {
           "bin/placeholder/ArtemisaApp.dll": {}
@@ -2397,7 +2400,7 @@
           "build/Microsoft.Net.UWPCoreRuntimeSdk.props": {}
         }
       },
-      "Microsoft.NETCore.Platforms/2.1.0": {
+      "Microsoft.NETCore.Platforms/7.0.4": {
         "type": "package",
         "compile": {
           "lib/netstandard1.0/_._": {}
@@ -3205,8 +3208,9 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "Xamarin.Essentials": "1.7.0",
-          "Xamarin.Forms": "5.0.0.2196"
+          "Microsoft.NETCore.Platforms": "7.0.4",
+          "Xamarin.Essentials": "1.8.0",
+          "Xamarin.Forms": "5.0.0.2612"
         },
         "compile": {
           "bin/placeholder/ArtemisaApp.dll": {}
@@ -3241,7 +3245,7 @@
           "build/Microsoft.Net.UWPCoreRuntimeSdk.props": {}
         }
       },
-      "Microsoft.NETCore.Platforms/2.1.0": {
+      "Microsoft.NETCore.Platforms/7.0.4": {
         "type": "package",
         "compile": {
           "lib/netstandard1.0/_._": {}
@@ -4051,8 +4055,9 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "Xamarin.Essentials": "1.7.0",
-          "Xamarin.Forms": "5.0.0.2196"
+          "Microsoft.NETCore.Platforms": "7.0.4",
+          "Xamarin.Essentials": "1.8.0",
+          "Xamarin.Forms": "5.0.0.2612"
         },
         "compile": {
           "bin/placeholder/ArtemisaApp.dll": {}
@@ -4087,7 +4092,7 @@
           "build/Microsoft.Net.UWPCoreRuntimeSdk.props": {}
         }
       },
-      "Microsoft.NETCore.Platforms/2.1.0": {
+      "Microsoft.NETCore.Platforms/7.0.4": {
         "type": "package",
         "compile": {
           "lib/netstandard1.0/_._": {}
@@ -4898,8 +4903,9 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "Xamarin.Essentials": "1.7.0",
-          "Xamarin.Forms": "5.0.0.2196"
+          "Microsoft.NETCore.Platforms": "7.0.4",
+          "Xamarin.Essentials": "1.8.0",
+          "Xamarin.Forms": "5.0.0.2612"
         },
         "compile": {
           "bin/placeholder/ArtemisaApp.dll": {}
@@ -4934,7 +4940,7 @@
           "build/Microsoft.Net.UWPCoreRuntimeSdk.props": {}
         }
       },
-      "Microsoft.NETCore.Platforms/2.1.0": {
+      "Microsoft.NETCore.Platforms/7.0.4": {
         "type": "package",
         "compile": {
           "lib/netstandard1.0/_._": {}
@@ -5744,8 +5750,9 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "Xamarin.Essentials": "1.7.0",
-          "Xamarin.Forms": "5.0.0.2196"
+          "Microsoft.NETCore.Platforms": "7.0.4",
+          "Xamarin.Essentials": "1.8.0",
+          "Xamarin.Forms": "5.0.0.2612"
         },
         "compile": {
           "bin/placeholder/ArtemisaApp.dll": {}
@@ -5780,7 +5787,7 @@
           "build/Microsoft.Net.UWPCoreRuntimeSdk.props": {}
         }
       },
-      "Microsoft.NETCore.Platforms/2.1.0": {
+      "Microsoft.NETCore.Platforms/7.0.4": {
         "type": "package",
         "compile": {
           "lib/netstandard1.0/_._": {}
@@ -6591,8 +6598,9 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "Xamarin.Essentials": "1.7.0",
-          "Xamarin.Forms": "5.0.0.2196"
+          "Microsoft.NETCore.Platforms": "7.0.4",
+          "Xamarin.Essentials": "1.8.0",
+          "Xamarin.Forms": "5.0.0.2612"
         },
         "compile": {
           "bin/placeholder/ArtemisaApp.dll": {}
@@ -6677,21 +6685,21 @@
         "tools/CoreRuntime/Microsoft.Net.CoreRuntime.targets"
       ]
     },
-    "Microsoft.NETCore.Platforms/2.1.0": {
-      "sha512": "GmkKfoyerqmsHMn7OZj0AKpcBabD+GaafqphvX2Mw406IwiJRy1pKcKqdCfKJfYmkRyJ6+e+RaUylgdJoDa1jQ==",
+    "Microsoft.NETCore.Platforms/7.0.4": {
+      "sha512": "yLEHlNN7O5WiND89r42sepgVwy5W/ZoTiFEdJDV7MHR1lW02LL7Nipz2TD5qM/Kx9W3/k3NP+PAP2qUdOm+leg==",
       "type": "package",
-      "path": "microsoft.netcore.platforms/2.1.0",
+      "path": "microsoft.netcore.platforms/7.0.4",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
+        "Icon.png",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
         "lib/netstandard1.0/_._",
-        "microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+        "microsoft.netcore.platforms.7.0.4.nupkg.sha512",
         "microsoft.netcore.platforms.nuspec",
         "runtime.json",
-        "useSharedDesignerContext.txt",
-        "version.txt"
+        "useSharedDesignerContext.txt"
       ]
     },
     "Microsoft.NETCore.UniversalWindowsPlatform/6.2.12": {
@@ -11364,18 +11372,18 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\crist\\.nuget\\packages\\": {},
+    "C:\\Users\\CRISTHIAN\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Trabajos\\Artemisa2.0\\ArtemisaApp\\ArtemisaApp.UWP\\ArtemisaApp.UWP.csproj",
+      "projectUniqueName": "C:\\Users\\CRISTHIAN\\Documents\\Trabajos\\Artemisa2.0\\ArtemisaApp\\ArtemisaApp.UWP\\ArtemisaApp.UWP.csproj",
       "projectName": "ArtemisaApp.UWP",
-      "projectPath": "D:\\Trabajos\\Artemisa2.0\\ArtemisaApp\\ArtemisaApp.UWP\\ArtemisaApp.UWP.csproj",
-      "packagesPath": "C:\\Users\\crist\\.nuget\\packages\\",
-      "outputPath": "D:\\Trabajos\\Artemisa2.0\\ArtemisaApp\\ArtemisaApp.UWP\\obj\\",
+      "projectPath": "C:\\Users\\CRISTHIAN\\Documents\\Trabajos\\Artemisa2.0\\ArtemisaApp\\ArtemisaApp.UWP\\ArtemisaApp.UWP.csproj",
+      "packagesPath": "C:\\Users\\CRISTHIAN\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\CRISTHIAN\\Documents\\Trabajos\\Artemisa2.0\\ArtemisaApp\\ArtemisaApp.UWP\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -11383,7 +11391,7 @@
         "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\crist\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\CRISTHIAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -11397,8 +11405,8 @@
       "frameworks": {
         "uap10.0.16299": {
           "projectReferences": {
-            "D:\\Trabajos\\Artemisa2.0\\ArtemisaApp\\ArtemisaApp\\ArtemisaApp.csproj": {
-              "projectPath": "D:\\Trabajos\\Artemisa2.0\\ArtemisaApp\\ArtemisaApp\\ArtemisaApp.csproj"
+            "C:\\Users\\CRISTHIAN\\Documents\\Trabajos\\Artemisa2.0\\ArtemisaApp\\ArtemisaApp\\ArtemisaApp.csproj": {
+              "projectPath": "C:\\Users\\CRISTHIAN\\Documents\\Trabajos\\Artemisa2.0\\ArtemisaApp\\ArtemisaApp\\ArtemisaApp.csproj"
             }
           }
         }
@@ -11450,5 +11458,41 @@
         "#import": []
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Degradación del paquete detectada: Xamarin.Essentials de 1.8.0 a 1.7.0. Haga referencia al paquete directamente desde el proyecto para seleccionar una versión diferente. \r\n ArtemisaApp.UWP -> ArtemisaApp -> Xamarin.Essentials (>= 1.8.0) \r\n ArtemisaApp.UWP -> Xamarin.Essentials (>= 1.7.0)",
+      "libraryId": "Xamarin.Essentials",
+      "targetGraphs": [
+        "UAP,Version=v10.0.16299",
+        "UAP,Version=v10.0.16299/win10-arm",
+        "UAP,Version=v10.0.16299/win10-arm-aot",
+        "UAP,Version=v10.0.16299/win10-arm64-aot",
+        "UAP,Version=v10.0.16299/win10-x64",
+        "UAP,Version=v10.0.16299/win10-x64-aot",
+        "UAP,Version=v10.0.16299/win10-x86",
+        "UAP,Version=v10.0.16299/win10-x86-aot"
+      ]
+    },
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Degradación del paquete detectada: Xamarin.Forms de 5.0.0.2612 a 5.0.0.2196. Haga referencia al paquete directamente desde el proyecto para seleccionar una versión diferente. \r\n ArtemisaApp.UWP -> ArtemisaApp -> Xamarin.Forms (>= 5.0.0.2612) \r\n ArtemisaApp.UWP -> Xamarin.Forms (>= 5.0.0.2196)",
+      "libraryId": "Xamarin.Forms",
+      "targetGraphs": [
+        "UAP,Version=v10.0.16299",
+        "UAP,Version=v10.0.16299/win10-arm",
+        "UAP,Version=v10.0.16299/win10-arm-aot",
+        "UAP,Version=v10.0.16299/win10-arm64-aot",
+        "UAP,Version=v10.0.16299/win10-x64",
+        "UAP,Version=v10.0.16299/win10-x64-aot",
+        "UAP,Version=v10.0.16299/win10-x86",
+        "UAP,Version=v10.0.16299/win10-x86-aot"
+      ]
+    }
+  ]
 }

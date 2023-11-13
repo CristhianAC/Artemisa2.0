@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Trabajos\\Artemisa2.0\\ArtemisaApp\\ArtemisaApp.Android\\ArtemisaApp.Android.csproj": {}
+    "C:\\Users\\CRISTHIAN\\Documents\\Trabajos\\Artemisa2.0\\ArtemisaApp\\ArtemisaApp.Android\\ArtemisaApp.Android.csproj": {}
   },
   "projects": {
-    "D:\\Trabajos\\Artemisa2.0\\ArtemisaApp\\ArtemisaApp.Android\\ArtemisaApp.Android.csproj": {
+    "C:\\Users\\CRISTHIAN\\Documents\\Trabajos\\Artemisa2.0\\ArtemisaApp\\ArtemisaApp.Android\\ArtemisaApp.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Trabajos\\Artemisa2.0\\ArtemisaApp\\ArtemisaApp.Android\\ArtemisaApp.Android.csproj",
+        "projectUniqueName": "C:\\Users\\CRISTHIAN\\Documents\\Trabajos\\Artemisa2.0\\ArtemisaApp\\ArtemisaApp.Android\\ArtemisaApp.Android.csproj",
         "projectName": "ArtemisaApp.Android",
-        "projectPath": "D:\\Trabajos\\Artemisa2.0\\ArtemisaApp\\ArtemisaApp.Android\\ArtemisaApp.Android.csproj",
-        "packagesPath": "C:\\Users\\crist\\.nuget\\packages\\",
-        "outputPath": "D:\\Trabajos\\Artemisa2.0\\ArtemisaApp\\ArtemisaApp.Android\\obj\\",
+        "projectPath": "C:\\Users\\CRISTHIAN\\Documents\\Trabajos\\Artemisa2.0\\ArtemisaApp\\ArtemisaApp.Android\\ArtemisaApp.Android.csproj",
+        "packagesPath": "C:\\Users\\CRISTHIAN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\CRISTHIAN\\Documents\\Trabajos\\Artemisa2.0\\ArtemisaApp\\ArtemisaApp.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\crist\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\CRISTHIAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -32,8 +32,8 @@
         "frameworks": {
           "monoandroid13.0": {
             "projectReferences": {
-              "D:\\Trabajos\\Artemisa2.0\\ArtemisaApp\\ArtemisaApp\\ArtemisaApp.csproj": {
-                "projectPath": "D:\\Trabajos\\Artemisa2.0\\ArtemisaApp\\ArtemisaApp\\ArtemisaApp.csproj"
+              "C:\\Users\\CRISTHIAN\\Documents\\Trabajos\\Artemisa2.0\\ArtemisaApp\\ArtemisaApp\\ArtemisaApp.csproj": {
+                "projectPath": "C:\\Users\\CRISTHIAN\\Documents\\Trabajos\\Artemisa2.0\\ArtemisaApp\\ArtemisaApp\\ArtemisaApp.csproj"
               }
             }
           }
@@ -54,20 +54,20 @@
         }
       }
     },
-    "D:\\Trabajos\\Artemisa2.0\\ArtemisaApp\\ArtemisaApp\\ArtemisaApp.csproj": {
+    "C:\\Users\\CRISTHIAN\\Documents\\Trabajos\\Artemisa2.0\\ArtemisaApp\\ArtemisaApp\\ArtemisaApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Trabajos\\Artemisa2.0\\ArtemisaApp\\ArtemisaApp\\ArtemisaApp.csproj",
+        "projectUniqueName": "C:\\Users\\CRISTHIAN\\Documents\\Trabajos\\Artemisa2.0\\ArtemisaApp\\ArtemisaApp\\ArtemisaApp.csproj",
         "projectName": "ArtemisaApp",
-        "projectPath": "D:\\Trabajos\\Artemisa2.0\\ArtemisaApp\\ArtemisaApp\\ArtemisaApp.csproj",
-        "packagesPath": "C:\\Users\\crist\\.nuget\\packages\\",
-        "outputPath": "D:\\Trabajos\\Artemisa2.0\\ArtemisaApp\\ArtemisaApp\\obj\\",
+        "projectPath": "C:\\Users\\CRISTHIAN\\Documents\\Trabajos\\Artemisa2.0\\ArtemisaApp\\ArtemisaApp\\ArtemisaApp.csproj",
+        "packagesPath": "C:\\Users\\CRISTHIAN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\CRISTHIAN\\Documents\\Trabajos\\Artemisa2.0\\ArtemisaApp\\ArtemisaApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\crist\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\CRISTHIAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -95,6 +95,10 @@
         "netstandard2.0": {
           "targetAlias": "netstandard2.0",
           "dependencies": {
+            "Microsoft.NETCore.Platforms": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
             "NETStandard.Library": {
               "suppressParent": "All",
               "target": "Package",
@@ -103,11 +107,11 @@
             },
             "Xamarin.Essentials": {
               "target": "Package",
-              "version": "[1.7.0, )"
+              "version": "[1.8.0, )"
             },
             "Xamarin.Forms": {
               "target": "Package",
-              "version": "[5.0.0.2196, )"
+              "version": "[5.0.0.2612, )"
             }
           },
           "imports": [
@@ -121,7 +125,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
