@@ -1,14 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "+ZMIgaDLLc7SGC/AQRW2in9m0E1h4qKFudJ0E08DYYVuedwL4Obu/F2flHUZTfjWARMhdjmCyUvwHaZNuatzvw==",
+  "dgSpecHash": "iK2WAhmJdjgdp5spKKGnZhZCcqi0tOzfejPewf+Z52yKloOTwNvJ/EZ/v7LfGPmqRAASaS3qIRhu1UmsT0BnUw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\CRISTHIAN\\Documents\\Trabajos\\Artemisa2.0\\ArtemisaApp\\ArtemisaApp\\ArtemisaApp.csproj",
+  "projectFilePath": "D:\\Trabajos\\Artemisa2.0\\ArtemisaApp\\ArtemisaApp\\ArtemisaApp.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\CRISTHIAN\\.nuget\\packages\\microsoft.netcore.platforms\\7.0.4\\microsoft.netcore.platforms.7.0.4.nupkg.sha512",
-    "C:\\Users\\CRISTHIAN\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
-    "C:\\Users\\CRISTHIAN\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
-    "C:\\Users\\CRISTHIAN\\.nuget\\packages\\xamarin.essentials\\1.8.0\\xamarin.essentials.1.8.0.nupkg.sha512",
-    "C:\\Users\\CRISTHIAN\\.nuget\\packages\\xamarin.forms\\5.0.0.2612\\xamarin.forms.5.0.0.2612.nupkg.sha512"
+    "C:\\Users\\crist\\.nuget\\packages\\microsoft.netcore.platforms\\7.0.4\\microsoft.netcore.platforms.7.0.4.nupkg.sha512",
+    "C:\\Users\\crist\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\crist\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\crist\\.nuget\\packages\\xamarin.essentials\\1.8.0\\xamarin.essentials.1.8.0.nupkg.sha512",
+    "C:\\Users\\crist\\.nuget\\packages\\xamarin.forms\\5.0.0.2622\\xamarin.forms.5.0.0.2622.nupkg.sha512"
   ],
   "logs": []
 }

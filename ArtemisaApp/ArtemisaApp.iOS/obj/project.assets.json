@@ -41,7 +41,7 @@
           }
         }
       },
-      "Xamarin.Forms/5.0.0.2196": {
+      "Xamarin.Forms/5.0.0.2622": {
         "type": "package",
         "compile": {
           "lib/Xamarin.iOS10/Xamarin.Forms.Core.dll": {
@@ -186,7 +186,7 @@
         "dependencies": {
           "Microsoft.NETCore.Platforms": "7.0.4",
           "Xamarin.Essentials": "1.8.0",
-          "Xamarin.Forms": "5.0.0.2612"
+          "Xamarin.Forms": "5.0.0.2622"
         },
         "compile": {
           "bin/placeholder/ArtemisaApp.dll": {}
@@ -236,7 +236,7 @@
           }
         }
       },
-      "Xamarin.Forms/5.0.0.2196": {
+      "Xamarin.Forms/5.0.0.2622": {
         "type": "package",
         "compile": {
           "lib/Xamarin.iOS10/Xamarin.Forms.Core.dll": {
@@ -381,7 +381,7 @@
         "dependencies": {
           "Microsoft.NETCore.Platforms": "7.0.4",
           "Xamarin.Essentials": "1.8.0",
-          "Xamarin.Forms": "5.0.0.2612"
+          "Xamarin.Forms": "5.0.0.2622"
         },
         "compile": {
           "bin/placeholder/ArtemisaApp.dll": {}
@@ -431,7 +431,7 @@
           }
         }
       },
-      "Xamarin.Forms/5.0.0.2196": {
+      "Xamarin.Forms/5.0.0.2622": {
         "type": "package",
         "compile": {
           "lib/Xamarin.iOS10/Xamarin.Forms.Core.dll": {
@@ -576,7 +576,7 @@
         "dependencies": {
           "Microsoft.NETCore.Platforms": "7.0.4",
           "Xamarin.Essentials": "1.8.0",
-          "Xamarin.Forms": "5.0.0.2612"
+          "Xamarin.Forms": "5.0.0.2622"
         },
         "compile": {
           "bin/placeholder/ArtemisaApp.dll": {}
@@ -626,7 +626,7 @@
           }
         }
       },
-      "Xamarin.Forms/5.0.0.2196": {
+      "Xamarin.Forms/5.0.0.2622": {
         "type": "package",
         "compile": {
           "lib/Xamarin.iOS10/Xamarin.Forms.Core.dll": {
@@ -771,7 +771,7 @@
         "dependencies": {
           "Microsoft.NETCore.Platforms": "7.0.4",
           "Xamarin.Essentials": "1.8.0",
-          "Xamarin.Forms": "5.0.0.2612"
+          "Xamarin.Forms": "5.0.0.2622"
         },
         "compile": {
           "bin/placeholder/ArtemisaApp.dll": {}
@@ -821,7 +821,7 @@
           }
         }
       },
-      "Xamarin.Forms/5.0.0.2196": {
+      "Xamarin.Forms/5.0.0.2622": {
         "type": "package",
         "compile": {
           "lib/Xamarin.iOS10/Xamarin.Forms.Core.dll": {
@@ -966,7 +966,7 @@
         "dependencies": {
           "Microsoft.NETCore.Platforms": "7.0.4",
           "Xamarin.Essentials": "1.8.0",
-          "Xamarin.Forms": "5.0.0.2612"
+          "Xamarin.Forms": "5.0.0.2622"
         },
         "compile": {
           "bin/placeholder/ArtemisaApp.dll": {}
@@ -1084,15 +1084,17 @@
         "xamarin.essentials.nuspec"
       ]
     },
-    "Xamarin.Forms/5.0.0.2196": {
-      "sha512": "zSXDiZukojtEBmZKUUG1yYBwlB9tI8JLPkc6n+Sm1PAX01QyzErWE9AaFJgP7usyoGHn92l4HnQF7A+/MPI6VA==",
+    "Xamarin.Forms/5.0.0.2622": {
+      "sha512": "vuhBbYbYM2fir0HkKeWBt3r+KzfJmXQQj4SlRYqRD/3MG9WS385T2VPuvakXMKgsGEkamaRyZacQ8ZPdac6cpA==",
       "type": "package",
-      "path": "xamarin.forms/5.0.0.2196",
+      "path": "xamarin.forms/5.0.0.2622",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "Assets/xamarin_128x128.png",
-        "build/MonoAndroid10/proguard.cfg",
+        "Licenses/LICENSE",
+        "Licenses/THIRD-PARTY-NOTICES.txt",
+        "build/MonoAndroid13/proguard.cfg",
         "build/Xamarin.Forms.DefaultItems.props",
         "build/Xamarin.Forms.DefaultItems.targets",
         "build/Xamarin.Forms.props",
@@ -1113,7 +1115,7 @@
         "build/netstandard2.0/Xamarin.Forms.Build.Tasks.dll",
         "build/netstandard2.0/Xamarin.Forms.Core.dll",
         "build/netstandard2.0/Xamarin.Forms.Xaml.dll",
-        "buildTransitive/MonoAndroid10/proguard.cfg",
+        "buildTransitive/MonoAndroid13/proguard.cfg",
         "buildTransitive/Xamarin.Forms.DefaultItems.props",
         "buildTransitive/Xamarin.Forms.DefaultItems.targets",
         "buildTransitive/Xamarin.Forms.props",
@@ -1134,19 +1136,19 @@
         "buildTransitive/netstandard2.0/Xamarin.Forms.Build.Tasks.dll",
         "buildTransitive/netstandard2.0/Xamarin.Forms.Core.dll",
         "buildTransitive/netstandard2.0/Xamarin.Forms.Xaml.dll",
-        "lib/MonoAndroid10.0/Design/Xamarin.Forms.Core.Design.dll",
-        "lib/MonoAndroid10.0/Design/Xamarin.Forms.Xaml.Design.dll",
-        "lib/MonoAndroid10.0/FormsViewGroup.dll",
-        "lib/MonoAndroid10.0/FormsViewGroup.pdb",
-        "lib/MonoAndroid10.0/Xamarin.Forms.Core.dll",
-        "lib/MonoAndroid10.0/Xamarin.Forms.Core.pdb",
-        "lib/MonoAndroid10.0/Xamarin.Forms.Core.xml",
-        "lib/MonoAndroid10.0/Xamarin.Forms.Platform.Android.dll",
-        "lib/MonoAndroid10.0/Xamarin.Forms.Platform.Android.pdb",
-        "lib/MonoAndroid10.0/Xamarin.Forms.Platform.dll",
-        "lib/MonoAndroid10.0/Xamarin.Forms.Xaml.dll",
-        "lib/MonoAndroid10.0/Xamarin.Forms.Xaml.pdb",
-        "lib/MonoAndroid10.0/Xamarin.Forms.Xaml.xml",
+        "lib/MonoAndroid13.0/Design/Xamarin.Forms.Core.Design.dll",
+        "lib/MonoAndroid13.0/Design/Xamarin.Forms.Xaml.Design.dll",
+        "lib/MonoAndroid13.0/FormsViewGroup.dll",
+        "lib/MonoAndroid13.0/FormsViewGroup.pdb",
+        "lib/MonoAndroid13.0/Xamarin.Forms.Core.dll",
+        "lib/MonoAndroid13.0/Xamarin.Forms.Core.pdb",
+        "lib/MonoAndroid13.0/Xamarin.Forms.Core.xml",
+        "lib/MonoAndroid13.0/Xamarin.Forms.Platform.Android.dll",
+        "lib/MonoAndroid13.0/Xamarin.Forms.Platform.Android.pdb",
+        "lib/MonoAndroid13.0/Xamarin.Forms.Platform.dll",
+        "lib/MonoAndroid13.0/Xamarin.Forms.Xaml.dll",
+        "lib/MonoAndroid13.0/Xamarin.Forms.Xaml.pdb",
+        "lib/MonoAndroid13.0/Xamarin.Forms.Xaml.xml",
         "lib/Xamarin.Mac/Design/Xamarin.Forms.Core.Design.dll",
         "lib/Xamarin.Mac/Design/Xamarin.Forms.Xaml.Design.dll",
         "lib/Xamarin.Mac/Xamarin.Forms.Core.dll",
@@ -1296,7 +1298,7 @@
         "lib/uap10.0.16299/Xamarin.Forms.Xaml.dll",
         "lib/uap10.0.16299/Xamarin.Forms.Xaml.pdb",
         "lib/uap10.0.16299/Xamarin.Forms.Xaml.xml",
-        "xamarin.forms.5.0.0.2196.nupkg.sha512",
+        "xamarin.forms.5.0.0.2622.nupkg.sha512",
         "xamarin.forms.nuspec"
       ]
     },
@@ -1310,28 +1312,28 @@
     "Xamarin.iOS,Version=v1.0": [
       "ArtemisaApp >= 1.0.0",
       "Xamarin.Essentials >= 1.7.0",
-      "Xamarin.Forms >= 5.0.0.2196"
+      "Xamarin.Forms >= 5.0.0.2622"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\CRISTHIAN\\.nuget\\packages\\": {},
+    "C:\\Users\\crist\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\CRISTHIAN\\Documents\\Trabajos\\Artemisa2.0\\ArtemisaApp\\ArtemisaApp.iOS\\ArtemisaApp.iOS.csproj",
+      "projectUniqueName": "D:\\Trabajos\\Artemisa2.0\\ArtemisaApp\\ArtemisaApp.iOS\\ArtemisaApp.iOS.csproj",
       "projectName": "ArtemisaApp.iOS",
-      "projectPath": "C:\\Users\\CRISTHIAN\\Documents\\Trabajos\\Artemisa2.0\\ArtemisaApp\\ArtemisaApp.iOS\\ArtemisaApp.iOS.csproj",
-      "packagesPath": "C:\\Users\\CRISTHIAN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\CRISTHIAN\\Documents\\Trabajos\\Artemisa2.0\\ArtemisaApp\\ArtemisaApp.iOS\\obj\\",
+      "projectPath": "D:\\Trabajos\\Artemisa2.0\\ArtemisaApp\\ArtemisaApp.iOS\\ArtemisaApp.iOS.csproj",
+      "packagesPath": "C:\\Users\\crist\\.nuget\\packages\\",
+      "outputPath": "D:\\Trabajos\\Artemisa2.0\\ArtemisaApp\\ArtemisaApp.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\CRISTHIAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\crist\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -1345,8 +1347,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\CRISTHIAN\\Documents\\Trabajos\\Artemisa2.0\\ArtemisaApp\\ArtemisaApp\\ArtemisaApp.csproj": {
-              "projectPath": "C:\\Users\\CRISTHIAN\\Documents\\Trabajos\\Artemisa2.0\\ArtemisaApp\\ArtemisaApp\\ArtemisaApp.csproj"
+            "D:\\Trabajos\\Artemisa2.0\\ArtemisaApp\\ArtemisaApp\\ArtemisaApp.csproj": {
+              "projectPath": "D:\\Trabajos\\Artemisa2.0\\ArtemisaApp\\ArtemisaApp\\ArtemisaApp.csproj"
             }
           }
         }
@@ -1361,7 +1363,7 @@
           },
           "Xamarin.Forms": {
             "target": "Package",
-            "version": "[5.0.0.2196, )"
+            "version": "[5.0.0.2622, )"
           }
         }
       }
@@ -1388,20 +1390,6 @@
       "warningLevel": 1,
       "message": "Degradación del paquete detectada: Xamarin.Essentials de 1.8.0 a 1.7.0. Haga referencia al paquete directamente desde el proyecto para seleccionar una versión diferente. \r\n ArtemisaApp.iOS -> ArtemisaApp -> Xamarin.Essentials (>= 1.8.0) \r\n ArtemisaApp.iOS -> Xamarin.Essentials (>= 1.7.0)",
       "libraryId": "Xamarin.Essentials",
-      "targetGraphs": [
-        "Xamarin.iOS,Version=v1.0",
-        "Xamarin.iOS,Version=v1.0/win",
-        "Xamarin.iOS,Version=v1.0/win-arm64",
-        "Xamarin.iOS,Version=v1.0/win-x64",
-        "Xamarin.iOS,Version=v1.0/win-x86"
-      ]
-    },
-    {
-      "code": "NU1605",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Degradación del paquete detectada: Xamarin.Forms de 5.0.0.2612 a 5.0.0.2196. Haga referencia al paquete directamente desde el proyecto para seleccionar una versión diferente. \r\n ArtemisaApp.iOS -> ArtemisaApp -> Xamarin.Forms (>= 5.0.0.2612) \r\n ArtemisaApp.iOS -> Xamarin.Forms (>= 5.0.0.2196)",
-      "libraryId": "Xamarin.Forms",
       "targetGraphs": [
         "Xamarin.iOS,Version=v1.0",
         "Xamarin.iOS,Version=v1.0/win",
